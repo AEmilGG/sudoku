@@ -1,0 +1,14 @@
+C:\Users\consulta\Desktop\emilAct copiladores\act2 sudoku\act2 sudoku\bin\Debug\net6.0\act2 sudoku.exe
+C:\Users\consulta\Desktop\emilAct copiladores\act2 sudoku\act2 sudoku\bin\Debug\net6.0\act2 sudoku.deps.json
+C:\Users\consulta\Desktop\emilAct copiladores\act2 sudoku\act2 sudoku\bin\Debug\net6.0\act2 sudoku.runtimeconfig.json
+C:\Users\consulta\Desktop\emilAct copiladores\act2 sudoku\act2 sudoku\bin\Debug\net6.0\act2 sudoku.dll
+C:\Users\consulta\Desktop\emilAct copiladores\act2 sudoku\act2 sudoku\bin\Debug\net6.0\act2 sudoku.pdb
+C:\Users\consulta\Desktop\emilAct copiladores\act2 sudoku\act2 sudoku\obj\Debug\net6.0\act2 sudoku.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\consulta\Desktop\emilAct copiladores\act2 sudoku\act2 sudoku\obj\Debug\net6.0\act2 sudoku.AssemblyInfoInputs.cache
+C:\Users\consulta\Desktop\emilAct copiladores\act2 sudoku\act2 sudoku\obj\Debug\net6.0\act2 sudoku.AssemblyInfo.cs
+C:\Users\consulta\Desktop\emilAct copiladores\act2 sudoku\act2 sudoku\obj\Debug\net6.0\act2 sudoku.csproj.CoreCompileInputs.cache
+C:\Users\consulta\Desktop\emilAct copiladores\act2 sudoku\act2 sudoku\obj\Debug\net6.0\act2 sudoku.dll
+C:\Users\consulta\Desktop\emilAct copiladores\act2 sudoku\act2 sudoku\obj\Debug\net6.0\refint\act2 sudoku.dll
+C:\Users\consulta\Desktop\emilAct copiladores\act2 sudoku\act2 sudoku\obj\Debug\net6.0\act2 sudoku.pdb
+C:\Users\consulta\Desktop\emilAct copiladores\act2 sudoku\act2 sudoku\obj\Debug\net6.0\act2 sudoku.genruntimeconfig.cache
+C:\Users\consulta\Desktop\emilAct copiladores\act2 sudoku\act2 sudoku\obj\Debug\net6.0\ref\act2 sudoku.dll
